@@ -1,0 +1,2 @@
+# samsung
+mobile sotware code
